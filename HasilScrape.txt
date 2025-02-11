@@ -1,0 +1,13 @@
+Heading Utama: Ihsan Fauzi
+H1: Ihsan Fauzi
+H2: Mahasiswa
+H3: Tentang Saya
+H3: Profile diri
+H3: Pengalaman
+H3: Keterampilan
+H3: Hubungi Saya
+Link Navigasi: #Tentang Saya - Tentang Saya
+Link Navigasi: #Profile Diri - Profile diri
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #Keterampilan - Keterampilan
+Link Navigasi: #Sosial Media - Sosial Media

@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+  }
+  header{
+    text-align: center;
+    padding: 50px 0;
+    background-color: rgba(0, 0, 0, 0.6); /* Transparan hitam agar teks terlihat jelas */
+  }
+    footer {
+        text-align: center;
+        padding: 50px 0;
+        background-color: rgba(0, 0, 0, 0.6);
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  article {
+    margin: 10px 0; /* Beri jarak atas dan bawah */
+    padding: 10px;
+    border: 1px solid #ccc; /* Opsional: Tambahkan batas agar terlihat */
+    background-color: #f9f9f9; /* Opsional: Beri warna agar lebih jelas */
+  }
+  
+  footer a {
+    display: inline-block;
+    margin-right: 20px; /* Memberi jarak antar elemen */
+    text-align: center; /* Menyelaraskan teks dengan gambar */
+  }
+  
+  footer a span {
+    display: block;
+    margin-top: 10px; /* Memberikan jarak antara gambar dan teks */
+    color: burlywood;
+    font-size: 14px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  footer a:hover span {
+    text-decoration: underline; /* Menambahkan garis bawah ketika hover */
+  }
+  
+ 
